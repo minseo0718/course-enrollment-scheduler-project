@@ -1,0 +1,20 @@
+Wed Dec 13 10:00:16 EST 2023 : Apache Derby Network Server - 10.16.1.1 - (1901046) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Dec 13 10:00:16 EST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-63b1-58b2-ffffdf2f36c5 
+on database directory /Users/minseokim/Desktop/FA23/cmpsc221/DerbyDatabases/CourseSchedulerDBMinseoKimMXK6067 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+Loaded from file:/Users/minseokim/Desktop/FA23/cmpsc221/DerbyDatabases/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=/Users/minseokim/Desktop/FA23/cmpsc221/DerbyDatabases/db-derby-10.16.1.1-bin
+os.name=Mac OS X
+os.arch=x86_64
+os.version=14.2
+derby.system.home=/Users/minseokim/Desktop/FA23/cmpsc221/DerbyDatabases
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 13 20:34:14 EST 2023: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Dec 13 20:34:14 EST 2023:
+Shutting down instance a816c00e-018c-63b1-58b2-ffffdf2f36c5 on database directory /Users/minseokim/Desktop/FA23/cmpsc221/DerbyDatabases/CourseSchedulerDBMinseoKimMXK6067 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+----------------------------------------------------------------
